@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    
+}
+.navbar{
+    background-color:rgb(103, 70, 70);
+}
+.nav-link{
+    color: white;
+}
+img .slide{
+    height: 600px;
+}
+.container_footer{
+    background-color:rgb(103, 70, 70);
+}
+
